@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\source\Al_ToolBox\Week4\Task1\Source.cpp(17,10): warning C4018: <: несоответствие типов со знаком и без знака
+C:\source\Al_ToolBox\Week4\Task1\Source.cpp(19,11): warning C4018: <: несоответствие типов со знаком и без знака
+  Task1.vcxproj -> C:\source\Al_ToolBox\Week4\Debug\Task1.exe

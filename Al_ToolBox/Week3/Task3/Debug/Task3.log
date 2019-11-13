@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\source\Al_ToolBox\Week3\Task3\Source.cpp(35,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\source\Al_ToolBox\Week3\Task3\Source.cpp(20): warning C4715: compute_min_refills: значение возвращается не при всех путях выполнения
+  Task3.vcxproj -> C:\source\Al_ToolBox\Week3\Debug\Task3.exe

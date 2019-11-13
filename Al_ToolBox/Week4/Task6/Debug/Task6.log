@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\source\Al_ToolBox\Week4\Task6\Source.cpp(68,9): warning C4101: y: неиспользованная локальная переменная
+C:\source\Al_ToolBox\Week4\Task6\Source.cpp(68,7): warning C4101: x: неиспользованная локальная переменная
+  Task6.vcxproj -> C:\source\Al_ToolBox\Week4\Debug\Task6.exe
