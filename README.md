@@ -1,2 +1,2 @@
-# Coursera_Algorithmic-Toolbox
-Файлы с куров блока Algorithmic-Toolbox на Coursera (язык С++)
+# Структуры и алгоритмы данных
+Файлы с куров блока Структуры и алгоритмы данных на Coursera (язык С++)
